@@ -1,0 +1,25 @@
+# 日志文件
+yunhu_bot.log
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# Composer
+vendor/
+composer.lock
+
+# 测试文件
+/test/
+/tests/
+
+# 配置文件（包含敏感信息）
+config.php
+.env
